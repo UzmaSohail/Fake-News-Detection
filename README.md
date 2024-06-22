@@ -1,10 +1,10 @@
 
-# Fake news Detection
+# Fake News Detection
 
-In ths digital age, fake news is a huge issue considering it hurts real-world communities by diseminating misinformation and igniting social unrest.
+In this digital age, fake news is a huge issue considering it hurts real-world communities by diseminating misinformation and igniting social unrest.
 hence, a technique to determine fake news by applying methods based on NLP helps in identifying fake-news in real time.
 ## Machine Learning algorithms used:
-Machine Learning algorithms like **Logistic Regression**,**Decision TreeClassifier**,**Passive Aggressive Classifier** and **Random Forest Classifier** can determine whether and article is legitemate or fraudulent by examiniing the language issues.
+Machine Learning algorithms like **Logistic Regression**,**Decision TreeClassifier**,**Passive Aggressive Classifier** and **Random Forest Classifier** can determine whether an article is legitemate or fraudulent by examining the language issues.
 ### Logistic Regression:
 Logistic regression is a supervised machine learning algorithm that accomplishes binary classification tasks by predicting the probability of an outcome, event, or observation. The model delivers a binary or dichotomous outcome limited to two possible outcomes: yes/no, 0/1, or true/false.
 ### Decision Tree Classifier:
